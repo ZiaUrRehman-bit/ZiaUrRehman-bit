@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZiaUrRehman-bit
-- 👀 I’m interested in Artificial Intelligence Embedded Systems Design
+- 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
 
 

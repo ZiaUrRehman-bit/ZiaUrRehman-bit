@@ -14,6 +14,18 @@
            🌱 Hand Gesture Control Robot using OpenCV (Mediapipe Library)
            🌱 Face detection and pose estimation using OpenCV (Mediapipe Library)
            🌱 Control Motor speed by hand gesture using OpenCV (Mediapipe Library)
+           
+       - 🌱 Barqi Labs Rawalpindi                25thAug 2018 to 12th Dec 2018
+         Embedded System Design Engineer:
+         
+        - Following are the Projects done in this lab:
+        - Project with Fauji Fertilizer Company Sadiqabad:
+            🌱 Design and Automate Score Badminton court using PIC
+            🌱 microcontroller, IR transmitter and receiver and seven Segments.
+            🌱 PCB Designing
+            🌱 Automatic control car using DTMF decoder
+            🌱 Automatic Door Lock System using Bluetooth Module HC-05
+            🌱 Data Logger Using PIC18F452
 
 
 <!---

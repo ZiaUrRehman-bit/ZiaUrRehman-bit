@@ -52,6 +52,13 @@
             🌱 Face Detection with OpenCV in Python
             🌱 MATLAB Onramp self-paced training course
             🌱 Image Processing Onramp
+            
+- RESEARCH INTEREST
+
+            🌱 AI (Machine Learning)
+            🌱 Embedded Systems
+            🌱 Robotics
+            🌱 Brain Computer Interface (BCI)
 
 <!---
 ZiaUrRehman-bit/ZiaUrRehman-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

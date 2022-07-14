@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineering
+- 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineer
 - 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
 
@@ -38,6 +38,12 @@
                   Electroencephalography, Brain Waves, NeuroSky, Arduino, Bluetooth Module
                   HC-05, IBT-2 Motor driver.
 
+- ![image](https://user-images.githubusercontent.com/77435711/178954571-d48628a1-7737-46af-9c07-2f2765b70370.png)
+EDUCATION
+Bachelors in Computer Engineering 2014 – 2018
+University of Engineering and Technology (UET), Taxila.
+Institute: KICSIT, Rawalpindi.
+CGPA: 3.77 / 4.0
 
 <!---
 ZiaUrRehman-bit/ZiaUrRehman-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

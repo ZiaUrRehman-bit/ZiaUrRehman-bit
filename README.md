@@ -3,18 +3,17 @@
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
 
 - EXPERIENCE
-      - Dr. A. Q. Khan Institute of Computer Science & Information
+      - 🌱 Dr. A. Q. Khan Institute of Computer Science & Information
         Technology, Sub Campus of IST             16th July 2019 to Present
         Lab Engineer at Computer Engineering Department:
 
         - AI Computer Vision Projects:
-             AI Based Hand Gesture Controlled Robotic Car
-             Car and pedestrian tracking using OpenCV
-             Face, eye, nose, lips detection using OpenCV
-             Hand Gesture Control Robot using OpenCV (Mediapipe Library)
-             Face detection and pose estimation using OpenCV (Mediapipe Library)
-             Control Motor speed by hand gesture using OpenCV (Mediapipe
-            Library)
+           🌱 AI Based Hand Gesture Controlled Robotic Car
+           🌱 Car and pedestrian tracking using OpenCV
+           🌱 Face, eye, nose, lips detection using OpenCV
+           🌱 Hand Gesture Control Robot using OpenCV (Mediapipe Library)
+           🌱 Face detection and pose estimation using OpenCV (Mediapipe Library)
+           🌱 Control Motor speed by hand gesture using OpenCV (Mediapipe Library)
 
 
 <!---

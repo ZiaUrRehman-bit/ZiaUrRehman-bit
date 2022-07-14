@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZiaUrRehman-bit
+- 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineering
 - 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
 
@@ -27,6 +27,16 @@
             🌱 Automatic control car using DTMF decoder
             🌱 Automatic Door Lock System using Bluetooth Module HC-05
             🌱 Data Logger Using PIC18F452
+        
+       - 🌱 KSOFT KRL Hospital Islamabad           13th July 2016 to 24th Aug 2016
+          - Internee
+            🌱 Hardware Interfacing of Pathology Lab Machine
+            
+            
+          - 🌱 Final Year Project (Under Graduate)
+                  Electroencephalograph Based Wheel Chair (Mind Control Wheelchair).
+                  Electroencephalography, Brain Waves, NeuroSky, Arduino, Bluetooth Module
+                  HC-05, IBT-2 Motor driver.
 
 
 <!---

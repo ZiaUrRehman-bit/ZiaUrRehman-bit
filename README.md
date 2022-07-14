@@ -46,6 +46,13 @@
            Institute: KICSIT, Rawalpindi.
            CGPA: 3.77 / 4.0
 
+- CERTIFICATION
+
+            🌱 Python for Machine Learning
+            🌱 Face Detection with OpenCV in Python
+            🌱 MATLAB Onramp self-paced training course
+            🌱 Image Processing Onramp
+
 <!---
 ZiaUrRehman-bit/ZiaUrRehman-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

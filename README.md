@@ -4,7 +4,8 @@
 - ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.
 
 ## 🛠   Tech Stack
-Python  SQL  Java  C  JavaScript  HTML  CSS  Git  GitHub  PyCharm 
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e](https://user-images.githubusercontent.com/77435711/179204548-8ffe9e97-4c4f-4713-91c0-46047b882f3c.svg)
 
 ## EXPERIENCE
 

@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineer
+# 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineer
 - 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
+- ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.
+
+## 🛠   Tech Stack
+
 
 - EXPERIENCE
 
@@ -40,7 +44,7 @@
 
 - EDUCATION
 
-    🌱 Bachelors in Computer Engineering                    2014 – 2018
+    🎓 Bachelors in Computer Engineering                    2014 – 2018
     
            University of Engineering and Technology (UET), Taxila.
            Institute: KICSIT, Rawalpindi.

@@ -1,12 +1,12 @@
-# 👋 Hi, I’m @ZiaUrRehman-bit, and I'm Computer Engineer
+# 👋 Hi! My name is Zia Ur Rehman, and I'm Computer Engineer
 - 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
 - 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
 - ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.
 
 ## 🛠   Tech Stack
+Python  SQL  Java  C  JavaScript  HTML  CSS  Git  GitHub  PyCharm 
 
-
-- EXPERIENCE
+## EXPERIENCE
 
       - 🌱 Dr. A. Q. Khan Institute of Computer Science & Information
         Technology, Sub Campus of IST             16th July 2019 to Present
@@ -42,7 +42,7 @@
                   Electroencephalography, Brain Waves, NeuroSky, Arduino, Bluetooth Module
                   HC-05, IBT-2 Motor driver.
 
-- EDUCATION
+## EDUCATION
 
     🎓 Bachelors in Computer Engineering                    2014 – 2018
     
@@ -50,14 +50,14 @@
            Institute: KICSIT, Rawalpindi.
            CGPA: 3.77 / 4.0
 
-- CERTIFICATION
+## CERTIFICATION
 
             🌱 Python for Machine Learning
             🌱 Face Detection with OpenCV in Python
             🌱 MATLAB Onramp self-paced training course
             🌱 Image Processing Onramp
             
-- RESEARCH INTEREST
+## RESEARCH INTEREST
 
             🌱 AI (Machine Learning)
             🌱 Embedded Systems

@@ -58,8 +58,13 @@
     🎓 Bachelors in Computer Engineering                    2014 – 2018
     
            University of Engineering and Technology (UET), Taxila.
-           Institute: KICSIT, Rawalpindi.
+           Institute: KICSIT, Sub Campus IST.
            CGPA: 3.77 / 4.0
+    
+    🎓 Master in Computer Science                           In-Progress
+    
+           Institute of Space Technology, Islamabad.
+           Institute: KICSIT, Sub Campus IST.
 
 ## CERTIFICATION
 

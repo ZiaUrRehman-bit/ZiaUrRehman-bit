@@ -75,6 +75,7 @@
             
 ## RESEARCH INTEREST
 
+            🌱 Computer Vision
             🌱 AI (Machine Learning)
             🌱 Embedded Systems
             🌱 Robotics

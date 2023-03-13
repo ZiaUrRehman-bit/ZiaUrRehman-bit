@@ -18,6 +18,8 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b657261732d3035313232413f267374796c653d666c6174266c6f676f3d6b65726173](https://user-images.githubusercontent.com/77435711/179205949-601de795-944b-4663-9746-444862c9cb5c.svg)
 
 ## EXPERIENCE
+![image](https://user-images.githubusercontent.com/77435711/224798031-e0278ae2-97df-49a7-b0c8-baa105a9fef8.png)
+![image](https://user-images.githubusercontent.com/77435711/224798148-902dae00-430f-4a97-b827-3d6d3d8496b5.png)
 
       - 🌱 Dr. A. Q. Khan Institute of Computer Science & Information
         Technology, Sub Campus of IST             16th July 2019 to Present

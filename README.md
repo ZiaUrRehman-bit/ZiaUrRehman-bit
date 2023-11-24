@@ -22,8 +22,9 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b657261732d3035313232413f267374796c653d666c6174266c6f676f3d6b65726173](https://user-images.githubusercontent.com/77435711/179205949-601de795-944b-4663-9746-444862c9cb5c.svg)
 
 ## Certifications
-[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/verify/ZY9YLCXVEGBJ)
-[Python For Machine Learning](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Python%20For%20Machine%20Learning.pdf)
+  1. [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/verify/ZY9YLCXVEGBJ)
+
+  2. [Python For Machine Learning](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Python%20For%20Machine%20Learning.pdf)
 
 
 <!---

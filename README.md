@@ -25,6 +25,8 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
   1. [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/verify/ZY9YLCXVEGBJ)
 
   2. [Python For Machine Learning](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Python%20For%20Machine%20Learning.pdf)
+  3. [Face Detection with OpenCV Python](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Face%20Detection%20with%20OpenCV%20in%20Python%20(Great%20Learning%20Academy%20).pdf)
+  
 
 
 <!---

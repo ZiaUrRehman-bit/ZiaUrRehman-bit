@@ -21,7 +21,8 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72666c6f772d3035313232413f267374796c653d666c6174266c6f676f3d74656e736f72666c6f77](https://user-images.githubusercontent.com/77435711/179205901-3d8be4e3-7302-4d38-bf25-9bf9dc1b8655.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b657261732d3035313232413f267374796c653d666c6174266c6f676f3d6b65726173](https://user-images.githubusercontent.com/77435711/179205949-601de795-944b-4663-9746-444862c9cb5c.svg)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7250388014151913472" height="1236" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+## Author Python Package
+[EnergyEfficientAI](https://pypi.org/project/EnergyEfficientAI/#description)
 
 ## Certifications
   1. [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/verify/ZY9YLCXVEGBJ)

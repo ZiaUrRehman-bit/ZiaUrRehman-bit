@@ -27,10 +27,15 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 ## EXPERIENCE
 
 ### Publications
-1. **Rehman, Zia Ur; Islam, Saif ul; Hassan, Uzair; Boudjadar, Jalil; Buyya, Rajkumar**: 'Improving CNN model training time efficiency using MPI-driven parallelization and ensemble learning', IET Conference Proceedings, p. 128-133, DOI: [10.1049/icp.2024.2540](https://digitallibrary.theiet.org/content/conferences/10.1049/icp.2024.2540)
-2. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur; Boudjadar, Jalil**: 'Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms', IET Conference Proceedings, p. 64-68, DOI: [10.1049/icp.2024.2529](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2529)
-3. **Zia Ur Rehman, Syed Nasir Mehmood Shah, Uzair Hassan, and Saif Ul Islam**: “Enhancing Brain Tumor Classification Using CNN: Impact of Data Augmentation on Model Generalization and Performance in Federated Learning”, Submitted to INMIC 2024 26th International Multi-Topic Conference, December 30-31, 2024
-4. **Zia Ur Rehman, Uzair Hassan, Saif Ul Islam, and Jalil Boudjadar**: “Energy-Efficient AI for Medical Diagnostics: Performance and Sustainability Analysis of ResNet and MobileNet”, Submitted to EFMI MIE 2025
+1. **Rehman, Zia Ur; Islam, Saif ul; Hassan, Uzair; Boudjadar, Jalil; Buyya, Rajkumar**: '_Improving CNN model training time efficiency using MPI-driven parallelization and ensemble learning_', IET Conference Proceedings, p. 128-133, DOI: [10.1049/icp.2024.2540](https://digitallibrary.theiet.org/content/conferences/10.1049/icp.2024.2540)
+
+2. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur; Boudjadar, Jalil**: '_Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms_', IET Conference Proceedings, p. 64-68, DOI: [10.1049/icp.2024.2529](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2529)
+
+3. **Zia Ur Rehman, Syed Nasir Mehmood Shah, Uzair Hassan, and Saif Ul Islam**: “_Enhancing Brain Tumor Classification Using CNN: Impact of Data Augmentation on Model Generalization and Performance in Federated Learning_”, Submitted to INMIC 2024 26th International Multi-Topic Conference, December 30-31, 2024
+
+4. **Zia Ur Rehman, Uzair Hassan, Saif Ul Islam, and Jalil Boudjadar**: “_Energy-Efficient AI for Medical Diagnostics: Performance and Sustainability Analysis of ResNet and MobileNet_”, Submitted to EFMI MIE 2025
+
+5. **Hassan, Uzair; Islam, Saif ul; Rehman, Zia Ur; Epiphaniou, Gregory; Maple, Carsten; Ahmad, Ishfaq**: '_Energy Consumption Analysis of Random Forest and SVM: Paving the Way for Green and Sustainable AI_', Submitted to Discover the Internet of Things
 
 ---
 

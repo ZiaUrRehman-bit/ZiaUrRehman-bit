@@ -37,6 +37,8 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 
 5. **Hassan, Uzair; Islam, Saif ul; Rehman, Zia Ur; Epiphaniou, Gregory; Maple, Carsten; Ahmad, Ishfaq**: '_Energy Consumption Analysis of Random Forest and SVM: Paving the Way for Green and Sustainable AI_', Submitted to Discover the Internet of Things
 
+6. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur**: '_Towards Green and Sustainable Artificial Intelligence: Quantifying the Energy Footprint of Machine Learning_', to be submitted [Journal Paper] 
+
 ---
 
 ### Research & Development

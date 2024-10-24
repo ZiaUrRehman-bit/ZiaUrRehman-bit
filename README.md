@@ -24,6 +24,69 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 ## Author Python Package
 [EnergyEfficientAI](https://pypi.org/project/EnergyEfficientAI/#description)
 
+## EXPERIENCE
+
+### Publications
+1. **Rehman, Zia Ur; Islam, Saif ul; Hassan, Uzair; Boudjadar, Jalil; Buyya, Rajkumar**: 'Improving CNN model training time efficiency using MPI-driven parallelization and ensemble learning', IET Conference Proceedings, p. 128-133, DOI: [10.1049/icp.2024.2540](https://digitallibrary.theiet.org/content/conferences/10.1049/icp.2024.2540)
+2. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur; Boudjadar, Jalil**: 'Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms', IET Conference Proceedings, p. 64-68, DOI: [10.1049/icp.2024.2529](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2529)
+3. **Zia Ur Rehman, Syed Nasir Mehmood Shah, Uzair Hassan, and Saif Ul Islam**: “Enhancing Brain Tumor Classification Using CNN: Impact of Data Augmentation on Model Generalization and Performance in Federated Learning”, Submitted to INMIC 2024 26th International Multi-Topic Conference, December 30-31, 2024
+4. **Zia Ur Rehman, Uzair Hassan, Saif Ul Islam, and Jalil Boudjadar**: “Energy-Efficient AI for Medical Diagnostics: Performance and Sustainability Analysis of ResNet and MobileNet”, Submitted to EFMI MIE 2025
+
+---
+
+### Research & Development
+- **EnergyEfficientAI**: Owner of a Python library to calculate energy and power consumption of machine learning and deep learning algorithms. [Link](https://pypi.org/project/EnergyEfficientAI/)
+- **Cryptizia**: Owner of a Python library that implements various cipher techniques. [Link](https://pypi.org/project/Cryptizia/)
+- **MPI (Message Passing Interface) Using Python for Parallel Programming**: [Link](https://github.com/ZiaUrRehman-bit/MPI--Message-Passing-Interface--Using-Python-for-Parallel-Programming)
+- **Implementation of Machine Learning Algorithms**: [Link](https://github.com/ZiaUrRehman-bit/Implementation-of-Machine-Learning-Algorithm)
+- **AI Workshop**: Conduct AI workshop for AI implementation for industries. [Link](https://github.com/ZiaUrRehman-bit/AI-Workshop-2024)
+- **CNN Using MPI**: Introduced parallelism in Deep Learning CNN Using MPI (Message Passing Interface). [Link](https://github.com/ZiaUrRehman-bit/CNN-Using-MPI)
+- **Finding Energy Consumption of Programming Languages**: Comparative Analysis of Seven Programming Languages (C, C++, C#, Java, Python, Matlab, R). [Link]
+
+---
+
+### Master Thesis
+**Title**: "Towards Enhanced Federated Learning Efficiency through Parallel Computing and Data Augmentation Techniques"  
+**Summary**: This research enhances federated learning efficiency by comparing baseline FL, MPI-parallelized FL, and MPI with data augmentation, evaluating accuracy, speed, and resource utilization trade-offs.
+
+---
+
+### IST Lab Engineer | Islamabad, Pakistan  
+Conduct the Labs in the university, which include the following subjects:  
+- Computer Vision, Information Security, Digital Image Processing, Microcontroller Application & Design, System Programming, Machine Learning, Digital System Design, Circuit Analysis, Digital Logic Design, Microprocessor System Design, Embedded Systems Design  
+**Duration**: 16th July 2019 – Present
+
+---
+
+### VISION INSIGHTA | Consultant | Rawalpindi, Pakistan  
+**Duration**: 17th Jan 2023 – 1st Dec 2023  
+**Industrial Projects**:  
+- IDU (Interactive Display Unit) (Raspberry Pi, OpenCV)
+- IPC (Interactive Presentation Control) to control PowerPoint Presentation (OpenCV)
+- Virtual Whiteboard for conference hall (OpenCV)
+- Gestures Control Robotic Car
+
+---
+
+### BARQI LABS | Embedded Design Engineer | Rawalpindi, Pakistan  
+**Duration**: 25th Aug 2018 – 12th Dec 2018  
+**Industrial Projects**:  
+- Project with Fauji Fertilizer Company Sadiqabad: Designed and automated scoreboard for badminton court using PIC microcontroller, IR transmitter and receiver, and seven-segment displays
+
+---
+
+### Speaker in Industrial Workshops
+- **Workshop Title**: “A HANDS-ON WORKSHOP ON ARTIFICIAL INTELLIGENCE (AI) AND IMPLEMENTATION STRATEGIES”  
+  **Date**: 06-07 December 2023  
+  **Organized at**: Institute of Space Technology, Islamabad (IST)  
+  **Certificate**: [Link]
+
+- **Workshop Title**: “A HANDS-ON WORKSHOP ON COMPUTER VISION USING OPENCV PYTHON”  
+  **Date**: 08 December 2023  
+  **Organized at**: Institute of Space Technology, Islamabad (IST)  
+  **Certificate**: [Link]
+
+---
 ## Certifications
   1. [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/verify/ZY9YLCXVEGBJ)
 
@@ -31,6 +94,14 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
   3. [Face Detection with OpenCV Python](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Face%20Detection%20with%20OpenCV%20in%20Python%20(Great%20Learning%20Academy%20).pdf)
   4. [Image Classification with CNNs using Keras](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/Image%20Classification%20with%20CNNs%20using%20Keras.pdf)
   
+---
+## References
+- **Dr. Saif Ul Islam**  
+  Research Fellow (Cyber Systems Engineering) at WMG, The University of Warwick, Coventry, UK  
+  Email: Saif.Islam@warwick.ac.uk  
+  LinkedIn: [Profile](https://www.linkedin.com/in/saif-ul-islam/)
+
+
 
 
 <!---

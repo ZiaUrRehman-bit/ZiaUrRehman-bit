@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Zia Ur Rehman, and I'm Computer Engineer
+# 👋 Hi! My name is Zia Ur Rehman, and I'm and Engineer and PhD Scholar.
 - 👀 I’m interested in Federated Learning, AI, ML, DL, Computer Vision, Parallel Computing, Evolutionary Algorithms, and Embedded systems
 - 🌱 I’m currently doing PhD in Computer Science in University of Limerick, Ireland. Also, working as Teaching Assistant for Evolutionary Algorithms Course.
 - ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.

@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Zia Ur Rehman, and I'm Computer Engineer
-- 👀 I’m interested in Artificial Intelligence and Embedded Systems Design
-- 🌱 I’m currently learning Artificial Intelligence and working as Computer Engineering Labs Coordinator in Institute of Space Technology, Islamabad, Pakistan 
+- 👀 I’m interested in Federated Learning, AI, ML, DL, Computer Vision, Parallel Computing, Evolutionary Algorithms, and Embedded systems
+- 🌱 I’m currently doing PhD in Computer Science in University of Limerick, Ireland. Also, working as Teaching Assistant for Evolutionary Algorithms Course.
 - ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.
 
 OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course

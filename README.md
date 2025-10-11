@@ -45,6 +45,7 @@ PhD researcher at the University of Limerick (Lero, BDS Group) supervised by Pro
 | 2024 | Energy footprint of LR and Decision Trees (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700922 |
 
 For the full list, see Google Scholar.
+
 OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 
 ## Author Python Package

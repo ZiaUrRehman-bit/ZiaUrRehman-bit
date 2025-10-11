@@ -1,45 +1,55 @@
-# 👋 Hi! My name is Zia Ur Rehman, and I'm an Engineer and PhD Scholar.
-- 👀 I’m interested in Federated Learning, AI, ML, DL, Computer Vision, Parallel Computing, Evolutionary Algorithms, and Embedded systems
-- 🌱 I’m currently doing PhD in Computer Science in University of Limerick, Ireland. Also, working as Teaching Assistant for Evolutionary Algorithms Course.
-- ✉️ You can email me at engrziaurrehman.kicsit@gmail.com.
+<!-- Profile Header -->
+<div align="center">
+  <h1>Zia Ur Rehman</h1>
+  <p><strong>PhD Researcher in Computer Science</strong></p>
+  <p>Federated Learning · Generative Models · Explainable AI · Evolutionary Algorithms · Green AI · Ensemble Learning · Parallel Computing</p>
 
+  <!-- Accent badges -->
+  <a href="mailto:engrziaurrehman.kicsit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-009688?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zia-ur-rehman-217a6212b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lero.ie/people/zia-ur-rehman">
+    <img src="https://img.shields.io/badge/Lero-Profile-0066CC?style=flat&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=Hjyuw-AAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-View-4285F4?style=flat&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Zia-Rehman-53">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/user/ZiaUrRehman-bit/">
+    <img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### About
+PhD researcher at the University of Limerick (Lero, BDS Group) supervised by Prof. Conor Ryan, developing privacy‑preserving and interpretable ML frameworks integrating ensemble methods and Grammatical Evolution in federated architectures with a focus on efficiency at scale. 
+
+- Focus: Federated Learning, XAI, Generative Models, Evolutionary Algorithms, Green AI
+- Interests: Energy‑efficient AI, MPI parallelization, computer vision pipelines
+
+---
+
+### Selected Publications
+| Year | Title | Link |
+|------|-------|------|
+| 2025 | Analyzing the energy consumption of RF and SVM for green, sustainable AI (Discover Internet of Things) | ➜ https://doi.org/10.1007/s43926-025-00188-4 |
+| 2025 | Energy‑Efficient AI for Medical Diagnostics: ResNet & MobileNet (SHTI 327) | ➜ https://ebooks.iospress.nl/doi/10.3233/SHTI250585 |
+| 2024 | Enhancing Brain Tumor Classification with CNN + Data Aug in FL (INMIC) | ➜ https://ieeexplore.ieee.org/document/11004415 |
+| 2024 | MPI‑driven parallelization + ensembles for faster CNN training (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700872 |
+| 2024 | Energy footprint of LR and Decision Trees (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700922 |
+
+For the full list, see Google Scholar.
 OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
-
-## 🛠   Tech Stack
-
-## ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e](https://user-images.githubusercontent.com/77435711/179204548-8ffe9e97-4c4f-4713-91c0-46047b882f3c.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43](https://user-images.githubusercontent.com/77435711/179204911-62df1b84-cdf2-43fe-bd52-ba71f6324526.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562](https://user-images.githubusercontent.com/77435711/179205048-4b2d01d9-ebb3-4b68-823b-9b8cdbbf0786.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079436861726d2d3035313232413f7374796c653d666c6174266c6f676f3d7079636861726d](https://user-images.githubusercontent.com/77435711/179205152-616fe541-9aa0-407e-aa5a-33643f6ddb15.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d70792d3035313232413f267374796c653d666c6174266c6f676f3d6e756d7079](https://user-images.githubusercontent.com/77435711/179205358-47142552-4641-4071-b711-4e03c6d5a208.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53636970792d3035313232413f267374796c653d666c6174266c6f676f3d7363697079](https://user-images.githubusercontent.com/77435711/179205423-7c215187-af84-4334-80db-d3c452c4400a.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d3035313232413f267374796c653d666c6174266c6f676f3d70616e646173](https://user-images.githubusercontent.com/77435711/179205505-e965831b-a907-43a1-af37-a89f96f93871.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7363696b69742d2d6c6561726e2d3035313232413f267374796c653d666c6174266c6f676f3d7363696b69742d6c6561726e](https://user-images.githubusercontent.com/77435711/179205572-d43b5864-1f56-46a7-ae90-769a682c5567.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f70656e43562d3035313232413f267374796c653d666c6174266c6f676f3d6f70656e4356](https://user-images.githubusercontent.com/77435711/179205721-6c93714e-e332-4d1c-bf05-85eb0319fa65.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d3035313232413f267374796c653d666c6174266c6f676f3d7079746f726368](https://user-images.githubusercontent.com/77435711/179205835-cdf6f33a-25f8-4b8d-b4bb-ca70ce1842fa.svg)
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72666c6f772d3035313232413f267374796c653d666c6174266c6f676f3d74656e736f72666c6f77](https://user-images.githubusercontent.com/77435711/179205901-3d8be4e3-7302-4d38-bf25-9bf9dc1b8655.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b657261732d3035313232413f267374796c653d666c6174266c6f676f3d6b65726173](https://user-images.githubusercontent.com/77435711/179205949-601de795-944b-4663-9746-444862c9cb5c.svg)
 
 ## Author Python Package
 [EnergyEfficientAI](https://pypi.org/project/EnergyEfficientAI/#description)
 
-## EXPERIENCE
-
-### Publications
-1. **Rehman, Zia Ur; Islam, Saif ul; Hassan, Uzair; Boudjadar, Jalil; Buyya, Rajkumar**: '_Improving CNN model training time efficiency using MPI-driven parallelization and ensemble learning_', IET Conference Proceedings, p. 128-133, DOI: [10.1049/icp.2024.2540](https://digitallibrary.theiet.org/content/conferences/10.1049/icp.2024.2540)
-
-2. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur; Boudjadar, Jalil**: '_Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms_', IET Conference Proceedings, p. 64-68, DOI: [10.1049/icp.2024.2529](https://digital-library.theiet.org/content/conferences/10.1049/icp.2024.2529)
-
-3. **Zia Ur Rehman, Syed Nasir Mehmood Shah, Uzair Hassan, and Saif Ul Islam**: “_Enhancing Brain Tumor Classification Using CNN: Impact of Data Augmentation on Model Generalization and Performance in Federated Learning_”, Submitted to INMIC 2024 26th International Multi-Topic Conference, December 30-31, 2024
-
-4. **Zia Ur Rehman, Uzair Hassan, Saif Ul Islam, and Jalil Boudjadar**: “_Energy-Efficient AI for Medical Diagnostics: Performance and Sustainability Analysis of ResNet and MobileNet_”, Submitted to EFMI MIE 2025
-
-5. **Hassan, Uzair; Islam, Saif ul; Rehman, Zia Ur; Epiphaniou, Gregory; Maple, Carsten; Ahmad, Ishfaq**: '_Energy Consumption Analysis of Random Forest and SVM: Paving the Way for Green and Sustainable AI_', Submitted to Discover the Internet of Things
-
-6. **Hassan, Uzair; Islam, Saif ul; Shah, Syed Nasir Mehmood; Rehman, Zia Ur**: '_Towards Green and Sustainable Artificial Intelligence: Quantifying the Energy Footprint of Machine Learning_', to be submitted [Journal Paper] 
-
----
 
 ### Research & Development
 - **EnergyEfficientAI**: Owner of a Python library to calculate energy and power consumption of machine learning and deep learning algorithms. [Link](https://pypi.org/project/EnergyEfficientAI/)
@@ -109,88 +119,10 @@ Conduct the Labs in the university, which include the following subjects:
   LinkedIn: [Profile](https://www.linkedin.com/in/saif-ul-islam/)
 
 
-<!-- Profile Header -->
-<div align="center">
-  <h1>Zia Ur Rehman</h1>
-  <p><strong>PhD Researcher in Computer Science</strong></p>
-  <p>Federated Learning · Generative Models · Explainable AI · Evolutionary Algorithms · Green AI · Ensemble Learning · Parallel Computing</p>
 
-  <!-- Accent badges -->
-  <a href="mailto:engrziaurrehman.kicsit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-009688?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/zia-ur-rehman-217a6212b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://lero.ie/people/zia-ur-rehman">
-    <img src="https://img.shields.io/badge/Lero-Profile-0066CC?style=flat&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=Hjyuw-AAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-View-4285F4?style=flat&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Zia-Rehman-53">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" />
-  </a>
-  <a href="https://pypi.org/user/ZiaUrRehman-bit/">
-    <img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white" />
-  </a>
-</div>
 
----
 
-### About
-PhD researcher at the University of Limerick (Lero, BDS Group) supervised by Prof. Conor Ryan, developing privacy‑preserving and interpretable ML frameworks integrating ensemble methods and Grammatical Evolution in federated architectures with a focus on efficiency at scale. 
 
-- Focus: Federated Learning, XAI, Generative Models, Evolutionary Algorithms, Green AI
-- Interests: Energy‑efficient AI, MPI parallelization, computer vision pipelines
-
----
-
-### Selected Publications
-| Year | Title | Link |
-|------|-------|------|
-| 2025 | Analyzing the energy consumption of RF and SVM for green, sustainable AI (Discover Internet of Things) | ➜ https://doi.org/10.1007/s43926-025-00188-4 |
-| 2025 | Energy‑Efficient AI for Medical Diagnostics: ResNet & MobileNet (SHTI 327) | ➜ https://ebooks.iospress.nl/doi/10.3233/SHTI250585 |
-| 2024 | Enhancing Brain Tumor Classification with CNN + Data Aug in FL (INMIC) | ➜ https://ieeexplore.ieee.org/document/11004415 |
-| 2024 | MPI‑driven parallelization + ensembles for faster CNN training (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700872 |
-| 2024 | Energy footprint of LR and Decision Trees (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700922 |
-
-For the full list, see Google Scholar.
-
----
-
-### R&D and Open Source
-- EnergyEfficientAI — Python library for real‑time power/energy insights in ML training.
-- MPI Parallel Programming — MPI4Py patterns and templates for distributed workloads.
-- Implementation of ML Algorithms — teaching‑oriented ML implementations.
-- Raspberry Pi 5 Power Monitoring Tool — ttkbootstrap desktop dashboard.
-- AI Workshop repo — hands‑on materials for applied AI.
-
-Explore repositories below for details.
-
----
-
-### Skills
-- Programming: Python, C/C++, Embedded C, MATLAB, Verilog, LaTeX
-- ML/AI: PyTorch, TensorFlow, Keras, scikit‑learn, OpenCV, YOLOv5, Mediapipe, DEAP, MPI4Py
-- Platforms: VS Code, PyCharm, Anaconda, Docker, Jupyter, Colab, Kaggle
-- Hardware: Raspberry Pi, Arduino, PIC, FPGA (Artix‑7)
-- Research: FL, XAI, Green AI, Evolutionary Algorithms, Generative Models, Privacy‑Preserving ML, Parallel Computing
-
----
-
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiaUrRehman-bit&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaUrRehman-bit&layout=compact&theme=tokyonight&hide_title=true" height="140" />
-</div>
-
----
-
-### Contact
-- Email: engrziaurrehman.kicsit@gmail.com
-- Phone: +353 899490619
-- Links: LinkedIn · Lero · Google Scholar · ResearchGate · PyPI
 
 
 <!---

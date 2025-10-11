@@ -59,8 +59,7 @@ OPenCV Course: https://zia-ur-s-site.thinkific.com/courses/your-first-course
 - **Implementation of Machine Learning Algorithms**: [Link](https://github.com/ZiaUrRehman-bit/Implementation-of-Machine-Learning-Algorithm)
 - **AI Workshop**: Conduct AI workshop for AI implementation for industries. [Link](https://github.com/ZiaUrRehman-bit/AI-Workshop-2024)
 - **CNN Using MPI**: Introduced parallelism in Deep Learning CNN Using MPI (Message Passing Interface). [Link](https://github.com/ZiaUrRehman-bit/CNN-Using-MPI)
-- **Finding Energy Consumption of Programming Languages**: Comparative Analysis of Seven Programming Languages (C, C++, C#, Java, Python, Matlab, R). [Link]
-
+- **Finding Energy Consumption of Programming Languages**: Comparative Analysis of Seven Programming Languages (C, C++, C#, Java, Python, Matlab, R).
 ---
 
 ### Master Thesis

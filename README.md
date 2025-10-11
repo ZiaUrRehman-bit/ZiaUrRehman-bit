@@ -109,6 +109,88 @@ Conduct the Labs in the university, which include the following subjects:
   LinkedIn: [Profile](https://www.linkedin.com/in/saif-ul-islam/)
 
 
+<!-- Profile Header -->
+<div align="center">
+  <h1>Zia Ur Rehman</h1>
+  <p><strong>PhD Researcher in Computer Science</strong></p>
+  <p>Federated Learning · Generative Models · Explainable AI · Evolutionary Algorithms · Green AI · Ensemble Learning · Parallel Computing</p>
+
+  <!-- Accent badges -->
+  <a href="mailto:engrziaurrehman.kicsit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-009688?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zia-ur-rehman-217a6212b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lero.ie/people/zia-ur-rehman">
+    <img src="https://img.shields.io/badge/Lero-Profile-0066CC?style=flat&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=Hjyuw-AAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-View-4285F4?style=flat&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Zia-Rehman-53">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/user/ZiaUrRehman-bit/">
+    <img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### About
+PhD researcher at the University of Limerick (Lero, BDS Group) supervised by Prof. Conor Ryan, developing privacy‑preserving and interpretable ML frameworks integrating ensemble methods and Grammatical Evolution in federated architectures with a focus on efficiency at scale. 
+
+- Focus: Federated Learning, XAI, Generative Models, Evolutionary Algorithms, Green AI
+- Interests: Energy‑efficient AI, MPI parallelization, computer vision pipelines
+
+---
+
+### Selected Publications
+| Year | Title | Link |
+|------|-------|------|
+| 2025 | Analyzing the energy consumption of RF and SVM for green, sustainable AI (Discover Internet of Things) | ➜ https://doi.org/10.1007/s43926-025-00188-4 |
+| 2025 | Energy‑Efficient AI for Medical Diagnostics: ResNet & MobileNet (SHTI 327) | ➜ https://ebooks.iospress.nl/doi/10.3233/SHTI250585 |
+| 2024 | Enhancing Brain Tumor Classification with CNN + Data Aug in FL (INMIC) | ➜ https://ieeexplore.ieee.org/document/11004415 |
+| 2024 | MPI‑driven parallelization + ensembles for faster CNN training (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700872 |
+| 2024 | Energy footprint of LR and Decision Trees (CADE) | ➜ https://ieeexplore.ieee.org/abstract/document/10700922 |
+
+For the full list, see Google Scholar.
+
+---
+
+### R&D and Open Source
+- EnergyEfficientAI — Python library for real‑time power/energy insights in ML training.
+- MPI Parallel Programming — MPI4Py patterns and templates for distributed workloads.
+- Implementation of ML Algorithms — teaching‑oriented ML implementations.
+- Raspberry Pi 5 Power Monitoring Tool — ttkbootstrap desktop dashboard.
+- AI Workshop repo — hands‑on materials for applied AI.
+
+Explore repositories below for details.
+
+---
+
+### Skills
+- Programming: Python, C/C++, Embedded C, MATLAB, Verilog, LaTeX
+- ML/AI: PyTorch, TensorFlow, Keras, scikit‑learn, OpenCV, YOLOv5, Mediapipe, DEAP, MPI4Py
+- Platforms: VS Code, PyCharm, Anaconda, Docker, Jupyter, Colab, Kaggle
+- Hardware: Raspberry Pi, Arduino, PIC, FPGA (Artix‑7)
+- Research: FL, XAI, Green AI, Evolutionary Algorithms, Generative Models, Privacy‑Preserving ML, Parallel Computing
+
+---
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiaUrRehman-bit&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaUrRehman-bit&layout=compact&theme=tokyonight&hide_title=true" height="140" />
+</div>
+
+---
+
+### Contact
+- Email: engrziaurrehman.kicsit@gmail.com
+- Phone: +353 899490619
+- Links: LinkedIn · Lero · Google Scholar · ResearchGate · PyPI
 
 
 <!---

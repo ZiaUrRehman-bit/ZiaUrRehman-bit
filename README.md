@@ -4,8 +4,9 @@
   <p><strong>PhD Researcher in Computer Science</strong></p>
   <p>Federated Learning · Generative Models · Explainable AI · Evolutionary Algorithms · Green AI · Ensemble Learning · Parallel Computing</p>
 
-  <!-- Accent badges -->
   <a href = "https://ziaurrehman-bit.github.io/ZiaUrRehman-bit/" </a>
+  <!-- Accent badges -->
+  
   <a href="mailto:engrziaurrehman.kicsit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-009688?style=flat&logo=gmail&logoColor=white" />
   </a>

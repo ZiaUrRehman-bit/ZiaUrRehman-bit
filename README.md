@@ -4,7 +4,9 @@
   <p><strong>PhD Researcher in Computer Science</strong></p>
   <p>Federated Learning · Generative Models · Explainable AI · Evolutionary Algorithms · Green AI · Ensemble Learning · Parallel Computing</p>
 
-  <a href="[Portfolio](https://ziaurrehman-bit.github.io/ZiaUrRehman-bit/)" </a>
+  <a href="https://ziaurrehman-bit.github.io/ZiaUrRehman-bit/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=flat&logo=github&logoColor=white" />
+</a>
   
   <!-- Accent badges -->
   

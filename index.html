@@ -15,6 +15,9 @@
 </head>
 <body>
 
+<!-- 3D network background -->
+<div class="hero-3d" id="hero3d" aria-hidden="true"></div>
+
 <!-- Grain overlay -->
 <div class="grain" aria-hidden="true"></div>
 
@@ -76,7 +79,7 @@
     </div>
 
     <div class="hero-visual">
-      <div class="portrait-frame">
+      <div class="portrait-frame tilt">
         <div class="portrait-bg"></div>
         <img src="assets/Picture2.jpg" alt="Portrait of Zia Ur Rehman" class="portrait-img" />
         <div class="portrait-deco">
@@ -141,19 +144,19 @@
       </p>
     </div>
     <aside class="about-stats">
-      <div class="stat">
+      <div class="stat tilt">
         <span class="stat-num">5</span>
         <span class="stat-label">Peer-reviewed<br>publications</span>
       </div>
-      <div class="stat">
+      <div class="stat tilt">
         <span class="stat-num">7+</span>
         <span class="stat-label">Years teaching<br>& research</span>
       </div>
-      <div class="stat">
+      <div class="stat tilt">
         <span class="stat-num">4.0</span>
         <span class="stat-label">MSCS<br>CGPA</span>
       </div>
-      <div class="stat">
+      <div class="stat tilt">
         <span class="stat-num">01</span>
         <span class="stat-label">Open-source<br>library on PyPI</span>
       </div>
@@ -168,32 +171,32 @@
     <h2 class="section-title">Research focus<span class="title-stop">.</span></h2>
   </div>
   <div class="research-grid">
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">i.</div>
       <h3>Federated Learning</h3>
       <p>Designing privacy-preserving training pipelines that scale across distributed clients without sacrificing model utility.</p>
     </article>
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">ii.</div>
       <h3>Evolutionary Algorithms</h3>
       <p>Using Grammatical Evolution to construct interpretable ensemble models that adapt to heterogeneous data environments.</p>
     </article>
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">iii.</div>
       <h3>Explainable AI</h3>
       <p>Building transparent learning systems where decisions can be traced, audited, and trusted — especially in healthcare contexts.</p>
     </article>
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">iv.</div>
       <h3>Green AI</h3>
       <p>Quantifying the energy footprint of ML workloads and engineering computationally efficient alternatives for sustainable AI.</p>
     </article>
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">v.</div>
       <h3>Parallel Computing</h3>
       <p>MPI-driven parallelization strategies to accelerate CNN training and federated workflows across multi-node clusters.</p>
     </article>
-    <article class="research-card">
+    <article class="research-card tilt">
       <div class="card-num">vi.</div>
       <h3>Generative Models</h3>
       <p>Exploring generative architectures for data augmentation in low-resource and privacy-sensitive learning regimes.</p>
@@ -334,21 +337,21 @@
   </div>
   <div class="projects-grid">
 
-    <a href="https://pypi.org/project/EnergyEfficientAI/" target="_blank" rel="noopener" class="proj-card featured">
+    <a href="https://pypi.org/project/EnergyEfficientAI/" target="_blank" rel="noopener" class="proj-card featured tilt">
       <div class="proj-meta"><span>Python · PyPI</span><span class="proj-arrow">↗</span></div>
       <h3>EnergyEfficientAI</h3>
       <p>A Python library for real-time CPU, memory, and power monitoring during model training — built to analyze the energy footprint of ML workloads.</p>
       <div class="proj-foot">PyPI library</div>
     </a>
 
-    <a href="https://ziaurrehman-bit.github.io/MPI--Message-Passing-Interface--Using-Python-for-Parallel-Programming/#quickstart" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://ziaurrehman-bit.github.io/MPI--Message-Passing-Interface--Using-Python-for-Parallel-Programming/#quickstart" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · MPI</span><span class="proj-arrow">↗</span></div>
       <h3>MPI Parallel Programming</h3>
       <p>Materials and example code for parallel programming with MPI4Py, applied to machine learning workloads.</p>
       <div class="proj-foot">GitHub repository</div>
     </a>
 
-    <a href="https://ziaurrehman-bit.github.io/Secure-Software-Development-in-Python/" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://ziaurrehman-bit.github.io/Secure-Software-Development-in-Python/" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · Security</span><span class="proj-arrow">↗</span></div>
       <h3>Secure Software Development in Python</h3>
       <p>A practical workshop covering common Python security vulnerabilities and how to prevent them through hands-on coding exercises and secure development practices.
@@ -356,28 +359,28 @@
       <div class="proj-foot">Workshop · GitHub Pages</div>
     </a>
 
-    <a href="https://github.com/ZiaUrRehman-bit/AI-Workshop-2024" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://github.com/ZiaUrRehman-bit/AI-Workshop-2024" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · Workshop</span><span class="proj-arrow">↗</span></div>
       <h3>AI Workshop</h3>
       <p>Comprehensive AI workshop materials covering practical machine learning, computer vision, and deep learning in Python.</p>
       <div class="proj-foot">GitHub repository</div>
     </a>
 
-    <a href="https://ziaurrehman-bit.github.io/Pi5PowerMonitoringTool/" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://ziaurrehman-bit.github.io/Pi5PowerMonitoringTool/" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · Raspberry Pi</span><span class="proj-arrow">↗</span></div>
       <h3>Raspberry Pi 5 Power Monitor</h3>
       <p>Real-time system monitoring dashboard built with Python and ttkbootstrap — CPU, RAM, temperature, clock frequency, and power.</p>
       <div class="proj-foot">GitHub repository</div>
     </a>
 
-    <a href="https://github.com/ZiaUrRehman-bit/Comparative-Analysis-of-Seven-Programming-Languages" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://github.com/ZiaUrRehman-bit/Comparative-Analysis-of-Seven-Programming-Languages" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · Benchmarking</span><span class="proj-arrow">↗</span></div>
       <h3>Languages × Energy</h3>
       <p>Comparison of programming languages with respect to energy consumption — a benchmarking study.</p>
       <div class="proj-foot">GitHub repository</div>
     </a>
 
-    <a href="https://github.com/" target="_blank" rel="noopener" class="proj-card">
+    <a href="https://github.com/" target="_blank" rel="noopener" class="proj-card tilt">
       <div class="proj-meta"><span>Python · DEAP</span><span class="proj-arrow">↗</span></div>
       <h3>Learn Evolutionary Algorithms</h3>
       <p>Hands-on implementations and tutorials for evolutionary computation, genetic algorithms, and grammatical evolution.</p>
@@ -487,6 +490,7 @@
   </div>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
 <script src="script.js"></script>
 </body>
 </html>
